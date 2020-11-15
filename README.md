@@ -3,9 +3,10 @@
 - KaGasanCanvasVISualizer
 - ステップ処理の可視化用ライブラリ。
 - 8時間コンとかで使いたいすね。
-- よく使うのがc++なのでc++で書くぞ。
+- よく使うのがc++なので、c++から叩いてhtmlで出力する。（重いぞ！）
 ## sample
 [↓の出力結果](https://kagasan.github.io/kgcvis/result.html)
+
 ```cpp
 #include "kgcvis.hpp"
 using namespace std;
