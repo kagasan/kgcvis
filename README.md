@@ -5,7 +5,7 @@
 - 8時間コンとかで使いたいすね。
 - よく使うのがc++なので、c++から叩いてhtmlで出力する。（重いぞ！）
 ## sample
-[↓の出力結果](https://kagasan.github.io/kgcvis/result.html)
+[↓の出力結果はここをクリック](https://kagasan.github.io/kgcvis/result.html)
 
 ```cpp
 #include "kgcvis.hpp"
